@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### I'm Neha from Bangalore. I'm a frontend developer and love exploring new technologies.
-🔭 I’m currently working with React, Redux and Node.
--
-:heart: JS
--
-You can reach me on nsbharati2008@gmail.com
+I'm Neha from Bangalore. I'm currently working as a frontend developer at a stratup. and love exploring new technologies.<br>
+- 🔭 I’m currently working with React, Redux and Node.<br>
+- :heart: JS
+### You can reach me at <br>
+**nsbharati2008@gmail.com**
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neha-bharati-36033963/) 
 <!--
 **nehabharati/nehabharati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
