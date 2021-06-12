@@ -3,6 +3,7 @@
 I'm Neha from Bangalore. I'm currently working as a frontend developer at a stratup. and love exploring new technologies.<br>
 - 🔭 I’m currently working with React, Redux and Node.<br>
 - :heart: JS
+- When I'm not coding I'm binging Netflix or coding more:man_technologist:
 ### You can reach me at <br>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neha-bharati-36033963/) 
 <!--
