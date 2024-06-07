@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Neha from Bangalore. I'm currently working as a Frontend developer and love exploring new technologies.<br>
+I'm Neha from Hyderabad. I'm currently working as a Frontend developer and love exploring new technologies.<br>
 - 🔭 I’m currently working with React, Redux and Node.<br>
 - :heart: JS
 - When I'm not coding I'm binging Netflix or coding more:man_technologist:
